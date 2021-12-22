@@ -1,4 +1,6 @@
 #!/bin/bash
+# 余計なディレクトリを削除
+rm -rf ~/B* ~/D* ~/M* ~/P* ~/T* ~/V*
 
 # swapを無効化
 sudo swapoff --all
