@@ -17,7 +17,7 @@ chsh -s /bin/zsh
 
 # zsh,tmux設定
 cp ./lib/.* ~/
-sudo cp ./lib/.* /root/
+sudo cp ./lib/.tmux.conf ./lib/.zshrc /root/
 
 # fzf
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
