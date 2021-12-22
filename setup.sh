@@ -24,3 +24,6 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 # パッケージを最新化
 #sudo apt update
 #sudo apt full-upgrade -y
+
+# chrome操作はシェルからやるのは面倒なのでechoでごまかす
+echo 'run Chromium(DRM), and add "https://www.youtube.com" to "Sites cannot use cookie" on settings.'
