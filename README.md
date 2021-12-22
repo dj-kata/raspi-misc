@@ -1,5 +1,6 @@
-# raspi-misc
-scripts for Raspberry Pi 4
+# raspi-miscとは
+Raspberry Piインストール時に諸々の初期設定をやるためのスクリプト。
+Raspberry Pi 4(bullseye)で確認。
 
 # usage
 ```
